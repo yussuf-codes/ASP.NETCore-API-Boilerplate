@@ -1,5 +1,5 @@
 @API_HostAddress = http://localhost:5555
 
 GET {{API_HostAddress}}/api/test/
-Accept: text/plain
+Accept: */*
 ###
